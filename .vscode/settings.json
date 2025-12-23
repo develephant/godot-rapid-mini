@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.uid": true,
+        "**/*.import": true
+    },
+    "files.eol": "\n",
+    "editor.tabSize": 4,
+    "editor.useTabStops": true,
+    "editor.guides.indentation": true,
+    "editor.insertSpaces": false
+}
