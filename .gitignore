@@ -2,3 +2,5 @@
 .godot/
 /android/
 /dev_assets/
+*.uid
+*.import
